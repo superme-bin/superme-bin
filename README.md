@@ -37,14 +37,6 @@
 
 ---
 
-## 📫 How to reach me:
-- **Email:** [superme.bin@email.com](mailto:superme.bin@email.com)
-- **LinkedIn:** [linkedin.com/in/superme-bin](https://linkedin.com/in/superme-bin)
-- **Twitter:** [@superme_bin](https://twitter.com/superme_bin)
-- **Personal Blog:** [Your Blog URL]
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** Java, JavaScript, Python, SQL
@@ -69,37 +61,3 @@
 
 </div>
 
----
-
-## 🎯 Featured Projects
-
-### [Project Name 1]
-Description of your project...
-- **Tech Stack:** Java, Spring Boot, Docker
-- **Repo:** [Link to Repository]
-
-### [Project Name 2]
-Description of your project...
-- **Tech Stack:** React, Node.js, MongoDB
-- **Repo:** [Link to Repository]
-
----
-
-## 💡 Quick Facts
-
-- ⚡ Fun fact: I love debugging code at 3 AM ☕
-- 🎓 Always learning and improving
-- 🤝 Open to collaborations and partnerships
-- 💪 Strong believer in clean code and best practices
-
----
-
-<div align="center">
-
-**⭐ If you like my projects, please give them a star! ⭐**
-
-</div>
-
----
-
-*Last updated: January 2026*
